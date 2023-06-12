@@ -20,5 +20,5 @@ internet and allow for real time monitoring of soil health features and crop yie
 Once the modules and sensors are connected to the Arduino-Uno, we write the necessary code to 
 read the sensor values and send them to the cloud using the ESP8266 NodeMCU module.
 
-#Important Note
+# Important Note
 I am going to Public The Research Paper on this Project, So please Wait as I public the paper I will upload it here also and it will content each and every step and information about code and devices and there circuit connection.
